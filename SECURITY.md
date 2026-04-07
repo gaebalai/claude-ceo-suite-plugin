@@ -52,7 +52,7 @@ command file that fails to honor the trust boundary, or a pattern that
 could mislead Claude into executing unintended actions — please report
 it privately:
 
-- **GitHub Security Advisories**: https://github.com/JFK/claude-ceo-suite-plugin/security/advisories/new
+- **GitHub Security Advisories**: https://github.com/gaebalai/claude-ceo-suite-plugin/security/advisories/new
 - **Email**: fumikazu.kiyota@gmail.com
 
 Please do **not** open public GitHub issues for security reports.

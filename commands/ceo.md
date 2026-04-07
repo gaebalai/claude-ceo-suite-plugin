@@ -81,7 +81,7 @@ The user has a specific need. Your job is to triage it to the right experts and 
    - Lead with the recommendation (not the analysis)
    - State the trade-offs you weighed
    - Assign priority: what to do now, what to do next, what to monitor
-   - If any [claude-phd-panel](https://github.com/JFK/claude-phd-panel-plugin) commands (`/claude-phd-panel:cs`, `/claude-phd-panel:db`, `/claude-phd-panel:stats`, `/claude-phd-panel:ds`, `/claude-phd-panel:dist-sys`, `/claude-phd-panel:pl`) have been run in this session, incorporate their findings where they strengthen the decision
+   - If any [claude-phd-panel](https://github.com/gaebalai/claude-phd-panel-plugin) commands (`/claude-phd-panel:cs`, `/claude-phd-panel:db`, `/claude-phd-panel:stats`, `/claude-phd-panel:ds`, `/claude-phd-panel:dist-sys`, `/claude-phd-panel:pl`) have been run in this session, incorporate their findings where they strengthen the decision
 
 ### Output format
 

@@ -71,7 +71,7 @@ edges referenced in `commands/ceo.md`.
 
 ## Reporting bugs
 
-Open an issue at https://github.com/JFK/claude-ceo-suite-plugin/issues
+Open an issue at https://github.com/gaebalai/claude-ceo-suite-plugin/issues
 with:
 
 - Which command was affected

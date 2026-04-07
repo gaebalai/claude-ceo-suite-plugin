@@ -146,7 +146,7 @@ def audit_metadata() -> list[str]:
         )
 
     for required in ("SECURITY.md", "CONTRIBUTING.md", "CHANGELOG.md",
-                     "README.md", "README.ja.md", "AUDIT.md"):
+                     "README.md", "README.md", "AUDIT.md"):
         if not os.path.exists(os.path.join(ROOT, required)):
             errors.append(f"Missing required document: {required}")
 

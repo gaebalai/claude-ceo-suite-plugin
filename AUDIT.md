@@ -66,8 +66,7 @@ and "Utility" marks which apply to utility commands:
 | **SECURITY.md exists** | Threat model and reporting policy |
 | **CONTRIBUTING.md exists** | Style guide and feature freeze policy |
 | **CHANGELOG.md exists** | Release history |
-| **README.md exists** | English front door |
-| **README.ja.md exists** | Japanese front door |
+| **README.md exists** | Korean front door |
 | **AUDIT.md exists** | This document |
 
 ## Current conformance matrix
@@ -102,7 +101,7 @@ checklist for any new role:
    defined in `CONTRIBUTING.md`
 2. Add the role to the `EXPECTED_COMMANDS` set in `scripts/audit.py`
 3. Add the new row to the matrix in this file
-4. Add the role to the commands tables in `README.md` and `README.ja.md`
+4. Add the role to the commands tables in `README.md` and `README.md`
 5. Update the Top 3 cross-reference graph in `commands/ceo.md`
 6. Add a CHANGELOG entry under `[Unreleased]`
 7. Run `python3 scripts/audit.py` and confirm exit code 0

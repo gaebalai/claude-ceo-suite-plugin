@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - `CONTRIBUTING.md` — feature freeze policy, style guide, PR workflow.
 - `CHANGELOG.md` — this file, with retroactive history.
 - `AUDIT.md` — conformance matrix and policy reference.
-- `USAGE.md` / `USAGE.ja.md` — comprehensive usage guides for end users.
+- `USAGE.md` / `USAGE.md` — comprehensive usage guides for end users.
 
 ## [1.3.0] — CEO meta-layer and Top 3 cross-reference model
 

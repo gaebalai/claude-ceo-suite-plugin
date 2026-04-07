@@ -2,7 +2,7 @@
 
 Claude CEO-Suite Plugin을 일상 개발에서 활용하기 위한 실전 가이드입니다.
 
-> 설치 방법은 [README.ja.md](./README.ja.md#설치)를 참조하세요.
+> 설치 방법은 [README.md](./README.md#설치)를 참조하세요.
 
 ---
 

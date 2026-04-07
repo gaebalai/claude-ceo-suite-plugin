@@ -102,7 +102,7 @@ Constraints:
 - **One lens only.** Do not silently mix in other CxOs' perspectives. If you find yourself wanting to, that is a signal you should have declined routing — note the urge briefly under "Other lenses worth consulting" at the end.
 - **Concise.** Aim for the answer a senior person would give in a hallway conversation: direct, evidence-backed, no padding. Not a full audit report.
 - **Cite files** with `path:line` when referring to specific code.
-- **Cross-reference PhD Panel findings** if any [claude-phd-panel](https://github.com/JFK/claude-phd-panel-plugin) commands have been run earlier in this session and they strengthen the answer.
+- **Cross-reference PhD Panel findings** if any [claude-phd-panel](https://github.com/gaebalai/claude-phd-panel-plugin) commands have been run earlier in this session and they strengthen the answer.
 - **Do NOT execute changes.** Recommend, do not modify. This is analysis only.
 
 ### Step 5 — Output format

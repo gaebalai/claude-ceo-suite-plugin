@@ -80,7 +80,7 @@ CEO 커맨드가 자동으로 프로젝트를 진단하고, 가장 관련성이 
 ## 설치
 
 ```bash
-/plugin marketplace add JFK/claude-ceo-suite-plugin
+/plugin marketplace add gaebalai/claude-ceo-suite-plugin
 /plugin install claude-ceo-suite
 ```
 
@@ -98,7 +98,7 @@ CEO 커맨드가 자동으로 프로젝트를 진단하고, 가장 관련성이 
 
 ## 사용법 개요
 
-> 상세 가이드: **[USAGE.ja.md](./USAGE.ja.md)** ([English](./USAGE.md))
+> 상세 가이드: **[USAGE.md](./USAGE.md)** 
 
 ### 리뷰 모드 — 전체 또는 범위 지정 분석
 
@@ -182,7 +182,7 @@ CEO 커맨드가 자동으로 프로젝트를 진단하고, 가장 관련성이 
 | QA Lead | CTO, COO, CSO | 품질 × 운영 × 보안 |
 | DX Lead | CTO, CDO, CMO | DX × 디자인 × 마케팅 |
 
-모든 임원은 [PhD Panel](https://github.com/JFK/claude-phd-panel-plugin)(학술적 리뷰)의 분석 결과도 참조할 수 있습니다.
+모든 임원은 [PhD Panel](https://github.com/gaebalai/claude-phd-panel-plugin)(학술적 리뷰)의 분석 결과도 참조할 수 있습니다.
 
 ```mermaid
 graph TD
@@ -241,16 +241,14 @@ graph TD
 
 | 문서 | 용도 |
 |------|------|
-| [USAGE.ja.md](./USAGE.ja.md) / [USAGE.md](./USAGE.md) | 전체 사용 가이드 — 퀵스타트, 의사결정 트리, 패턴, 트러블슈팅 |
+| [USAGE.md](./USAGE.md)  | 전체 사용 가이드 — 퀵스타트, 의사결정 트리, 패턴, 트러블슈팅 |
 | [SECURITY.md](./SECURITY.md) | 위협 모델, 경감 조치, GitHub 토큰 스코프, 취약점 보고 |
 | [CONTRIBUTING.md](./CONTRIBUTING.md) | 스타일 가이드, 기능 동결 정책, PR 워크플로우 |
 | [CHANGELOG.md](./CHANGELOG.md) | 릴리스 이력(v1.0 → 현재) |
 | [AUDIT.md](./AUDIT.md) | 정합성 감사 매트릭스 및 검증 스크립트(`python3 scripts/audit.py`) |
 
 ## 관련 플러그인
-
-- **[claude-phd-panel](https://github.com/JFK/claude-phd-panel-plugin)** — 학술적 리뷰(분산 시스템, 통계, 데이터베이스 이론 등). 같은 세션 내에서 실행하면 CEO-Suite 커맨드가 자동으로 소견을 반영합니다.
-- **[expert-craft](https://github.com/JFK/expert-craft-plugin)** — CEO-Suite와 상호참조하는 자체 도메인 전문가를 생성할 수 있습니다.
+준비중
 
 ## 라이선스
 
