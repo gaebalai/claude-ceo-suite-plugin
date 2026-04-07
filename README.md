@@ -182,7 +182,6 @@ CEO 커맨드가 자동으로 프로젝트를 진단하고, 가장 관련성이 
 | QA Lead | CTO, COO, CSO | 품질 × 운영 × 보안 |
 | DX Lead | CTO, CDO, CMO | DX × 디자인 × 마케팅 |
 
-모든 임원은 [PhD Panel](https://github.com/gaebalai/claude-phd-panel-plugin)(학술적 리뷰)의 분석 결과도 참조할 수 있습니다.
 
 ```mermaid
 graph TD
