@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-ceo-suite",
+  "description": "Executive team analysis skills — CEO, CTO, PM, CDO, CSO, CLO, COO, CMO, CAIO, CFO, CIO, QA Lead, DX Lead perspectives for any codebase",
+  "owner": {
+    "name": "Jaewoo Kim",
+    "email": "jaewoo.kim2019@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-ceo-suite",
+      "source": "./",
+      "version": "1.7.0",
+      "category": "code-quality"
+    }
+  ]
+}

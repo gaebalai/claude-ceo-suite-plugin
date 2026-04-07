@@ -1,0 +1,31 @@
+{
+  "name": "claude-ceo-suite",
+  "version": "1.7.0",
+  "description": "Executive team perspectives for any codebase — CEO, CTO, PM, CDO, CSO, CLO, COO, CMO, CAIO, CFO, CIO, QA Lead, DX Lead reviews",
+  "author": {
+    "name": "Jaewoo Kim",
+    "url": "https://github.com/gaebalai"
+  },
+  "repository": "https://github.com/gaebalai/claude-ceo-suite-plugin",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "architecture",
+    "security",
+    "design-system",
+    "testing",
+    "developer-experience",
+    "project-management",
+    "license-compliance",
+    "operations",
+    "seo",
+    "privacy",
+    "observability",
+    "analytics",
+    "ai-governance",
+    "cost-optimization",
+    "data-governance",
+    "information-architecture"
+  ],
+  "commands": ["./commands/"]
+}
